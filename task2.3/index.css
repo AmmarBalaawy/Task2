@@ -1,0 +1,40 @@
+body{
+    text-align: center;
+    font-family:Arial, Helvetica, sans-serif;
+    background-color: lightblue;
+    }
+    .container{
+    background-color:rgb(0,115,178);
+    width: 50%;
+    margin:100px auto;
+    padding:20px;
+    border-radius: 50px;
+    box-shadow:0 5px black;
+    }
+    
+    input[type="text"],[type="password"]
+    {
+        width:80% ;
+        padding: 15px;
+        margin: 5px 0px ;
+        border: 1px solid #696969;
+        border-radius: 3px;
+    }
+    input[type="submit"]{
+        background-color:rgb(85, 87, 88);
+        color: white;
+        width:100% ;
+        padding: 15px;
+        margin: 5px auto ;
+        border:none;
+        border-radius: 50px;
+    }
+    .name{
+        display: inline;
+    }
+    h2{
+        color: white;
+    }
+    p{
+        color: white;
+    }
